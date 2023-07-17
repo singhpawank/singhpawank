@@ -4,7 +4,7 @@
 - 🌱 I’m interested in *data structure and algorithm, competitive programming, web development, machine learning*.  
 - 👯 I’m looking to collaborate on projects related to software devlopment as part time. 
 - 📫 how to reach me:   
-    - mail me: singhpawank12@gmail.com
+    - mail me: iampawan0801@gmail.com
     - linkedin: https://www.linkedin.com/in/singhpawank/
     - website: https://singhpawank.github.io
     
