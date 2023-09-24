@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently pursuing B.Tech in electrical engineering from IIT Roorkee.
-- 🌱 I’m interested in *data structure and algorithm, competitive programming, web development, and machine learning.  
+- 🌱 I’m interested in data structures and algorithms, competitive programming, full-stack development, and machine learning.  
 - 👯 I’m looking to collaborate on projects related to software development. 
 - 📫 how to reach me:   
     - mail me: iampawan0801@gmail.com
